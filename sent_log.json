@@ -420,8 +420,8 @@
     "status": "sent"
   },
   "ehardter@emmes.com": {
-    "timestamp": "2026-05-15T11:29:05.902256",
-    "status": "failed: {'': (555, b'5.5.2 Syntax error, cannot decode response. For more information, go to\\n5.5.2  https://support.google.com/a/answer/3221692 and review RFC 5321\\n5.5.2 specifications. d9443c01a7336-2bd5d0f8efesm48414085ad.55 - gsmtp')}"
+    "timestamp": "2026-05-18T23:14:04.323119",
+    "status": "failed: {'': (555, b'5.5.2 Syntax error, cannot decode response. For more information, go to\\n5.5.2  https://support.google.com/a/answer/3221692 and review RFC 5321\\n5.5.2 specifications. d9443c01a7336-2bd791e0b06sm133593045ad.22 - gsmtp')}"
   },
   "kieran@midship.dev": {
     "timestamp": "2026-05-15T11:30:06.089957",
@@ -481,6 +481,122 @@
   },
   "jmeszaros@wentprop.com": {
     "timestamp": "2026-05-15T11:50:14.842233",
+    "status": "sent"
+  },
+  "eduardo@mycashless.com": {
+    "timestamp": "2026-05-18T22:47:41.788356",
+    "status": "sent"
+  },
+  "katie.klei@beautycounter.com": {
+    "timestamp": "2026-05-18T22:48:34.815302",
+    "status": "sent"
+  },
+  "jai@takt.tech": {
+    "timestamp": "2026-05-18T22:50:36.772019",
+    "status": "sent"
+  },
+  "vignesh@pivotrobots.com": {
+    "timestamp": "2026-05-18T22:51:36.809226",
+    "status": "sent"
+  },
+  "chris@remade.ai": {
+    "timestamp": "2026-05-18T22:53:00.878966",
+    "status": "sent"
+  },
+  "nick@boundarycare.com": {
+    "timestamp": "2026-05-18T22:53:54.871546",
+    "status": "sent"
+  },
+  "allan@medchefs.com": {
+    "timestamp": "2026-05-18T22:54:56.576641",
+    "status": "sent"
+  },
+  "kirtt@keycare.org": {
+    "timestamp": "2026-05-18T22:56:55.762102",
+    "status": "sent"
+  },
+  "stefan@formulainsight.io": {
+    "timestamp": "2026-05-18T22:57:59.225843",
+    "status": "sent"
+  },
+  "cihan@ob2.ai": {
+    "timestamp": "2026-05-18T22:59:48.391202",
+    "status": "sent"
+  },
+  "roxane.madio@beautycounter.com": {
+    "timestamp": "2026-05-18T23:01:50.427300",
+    "status": "sent"
+  },
+  "sujay@simplycompete.com": {
+    "timestamp": "2026-05-18T23:03:35.298089",
+    "status": "sent"
+  },
+  "debesh.mandal@nanograb.com": {
+    "timestamp": "2026-05-18T23:04:29.229755",
+    "status": "sent"
+  },
+  "tim@saasteps.com": {
+    "timestamp": "2026-05-18T23:05:51.521025",
+    "status": "sent"
+  },
+  "jai@1849.bio": {
+    "timestamp": "2026-05-18T23:06:51.586796",
+    "status": "sent"
+  },
+  "mats@hybrd.app": {
+    "timestamp": "2026-05-18T23:08:06.383328",
+    "status": "sent"
+  },
+  "anita@liveflow.io": {
+    "timestamp": "2026-05-18T23:16:03.463570",
+    "status": "sent"
+  },
+  "hayden.wooten@beautycounter.com": {
+    "timestamp": "2026-05-18T23:16:55.800186",
+    "status": "sent"
+  },
+  "sohrab@skycoolsystems.com": {
+    "timestamp": "2026-05-18T23:17:47.236586",
+    "status": "sent"
+  },
+  "sanketh@vitalizecare.co": {
+    "timestamp": "2026-05-18T23:19:31.149860",
+    "status": "sent"
+  },
+  "maxime@veracity-health.ai": {
+    "timestamp": "2026-05-18T23:20:36.294433",
+    "status": "sent"
+  },
+  "sid@lytix.co": {
+    "timestamp": "2026-05-18T23:21:49.288438",
+    "status": "sent"
+  },
+  "ethanhilton@caseflood.ai": {
+    "timestamp": "2026-05-18T23:23:15.984156",
+    "status": "sent"
+  },
+  "dawn@seam.co": {
+    "timestamp": "2026-05-18T23:24:06.167137",
+    "status": "sent"
+  },
+  "katie.weiper@beautycounter.com": {
+    "timestamp": "2026-05-18T23:25:54.516068",
+    "status": "sent"
+  },
+  "ola@joingerald.com": {
+    "timestamp": "2026-05-18T23:27:52.637159",
+    "status": "sent"
+  },
+  "hari@extend.app": {
+    "timestamp": "2026-05-18T23:29:51.575325",
+    "status": "sent"
+  },
+  "derek@kite.video": {
+    "timestamp": "2026-05-18T23:31:01.568894",
+    "status": "sent"
+  },
+  "isaac@retrofix.ai": {
+    "timestamp": "2026-05-18T23:32:07.105467",
     "status": "sent"
   }
 }
