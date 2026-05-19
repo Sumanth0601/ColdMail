@@ -420,8 +420,8 @@
     "status": "sent"
   },
   "ehardter@emmes.com": {
-    "timestamp": "2026-05-18T23:14:04.323119",
-    "status": "failed: {'': (555, b'5.5.2 Syntax error, cannot decode response. For more information, go to\\n5.5.2  https://support.google.com/a/answer/3221692 and review RFC 5321\\n5.5.2 specifications. d9443c01a7336-2bd791e0b06sm133593045ad.22 - gsmtp')}"
+    "timestamp": "2026-05-19T17:48:42.297759",
+    "status": "failed: {'': (555, b'5.5.2 Syntax error, cannot decode response. For more information, go to\\n5.5.2  https://support.google.com/a/answer/3221692 and review RFC 5321\\n5.5.2 specifications. d9443c01a7336-2bd5c05f727sm191667135ad.19 - gsmtp')}"
   },
   "kieran@midship.dev": {
     "timestamp": "2026-05-15T11:30:06.089957",
@@ -597,6 +597,166 @@
   },
   "isaac@retrofix.ai": {
     "timestamp": "2026-05-18T23:32:07.105467",
+    "status": "sent"
+  },
+  "julia@sparkhq.ai": {
+    "timestamp": "2026-05-19T17:50:19.480386",
+    "status": "sent"
+  },
+  "bads@layupai.com": {
+    "timestamp": "2026-05-19T17:52:12.735105",
+    "status": "sent"
+  },
+  "pbattista@adler.edu": {
+    "timestamp": "2026-05-19T17:53:07.628774",
+    "status": "sent"
+  },
+  "trey@puremetals.io": {
+    "timestamp": "2026-05-19T17:54:35.975354",
+    "status": "sent"
+  },
+  "zahlen@ravelfuture.com": {
+    "timestamp": "2026-05-19T17:55:48.548549",
+    "status": "sent"
+  },
+  "noah@scoutforschools.com": {
+    "timestamp": "2026-05-19T17:57:05.943807",
+    "status": "sent"
+  },
+  "nkim@hbs.edu": {
+    "timestamp": "2026-05-19T17:58:36.117982",
+    "status": "sent"
+  },
+  "nabil@baselinetrials.com": {
+    "timestamp": "2026-05-19T18:00:07.238960",
+    "status": "sent"
+  },
+  "tressia@stepful.com": {
+    "timestamp": "2026-05-19T18:00:58.848728",
+    "status": "sent"
+  },
+  "emiliano@synnaxlabs.com": {
+    "timestamp": "2026-05-19T18:02:05.686239",
+    "status": "sent"
+  },
+  "jackson@parley.so": {
+    "timestamp": "2026-05-19T18:03:06.050011",
+    "status": "sent"
+  },
+  "anabel@psykhe.com": {
+    "timestamp": "2026-05-19T18:04:08.671913",
+    "status": "sent"
+  },
+  "rstipetic@honeycomb.bio": {
+    "timestamp": "2026-05-19T18:05:19.658451",
+    "status": "sent"
+  },
+  "jeffreyip@confident-ai.com": {
+    "timestamp": "2026-05-19T18:06:17.770009",
+    "status": "sent"
+  },
+  "david@honeydew.ai": {
+    "timestamp": "2026-05-19T18:07:30.685848",
+    "status": "sent"
+  },
+  "zack@complete.so": {
+    "timestamp": "2026-05-19T18:09:03.295317",
+    "status": "sent"
+  },
+  "richard@epsilla.com": {
+    "timestamp": "2026-05-19T18:10:10.852412",
+    "status": "sent"
+  },
+  "lisa.volm@beautycounter.com": {
+    "timestamp": "2026-05-19T18:12:13.235337",
+    "status": "sent"
+  },
+  "lori@psychologytoday.com": {
+    "timestamp": "2026-05-19T18:13:45.329706",
+    "status": "sent"
+  },
+  "jlyda@onemedical.com": {
+    "timestamp": "2026-05-19T18:14:52.401355",
+    "status": "sent"
+  },
+  "aria@porterlyons.com": {
+    "timestamp": "2026-05-19T18:16:39.576629",
+    "status": "sent"
+  },
+  "tim@xdisplay.com": {
+    "timestamp": "2026-05-19T18:18:20.606601",
+    "status": "sent"
+  },
+  "graham@glass.health": {
+    "timestamp": "2026-05-19T18:20:22.091232",
+    "status": "sent"
+  },
+  "jeremy@trackstarhq.com": {
+    "timestamp": "2026-05-19T18:21:33.560282",
+    "status": "sent"
+  },
+  "dhiren@inventive.ai": {
+    "timestamp": "2026-05-19T18:22:51.427075",
+    "status": "sent"
+  },
+  "jgoheen@tradecyclecapital.com": {
+    "timestamp": "2026-05-19T18:24:00.372407",
+    "status": "sent"
+  },
+  "tmathew@nyacp.org": {
+    "timestamp": "2026-05-19T18:25:34.219972",
+    "status": "sent"
+  },
+  "cole@dscribeai.com": {
+    "timestamp": "2026-05-19T18:26:32.550923",
+    "status": "sent"
+  },
+  "ozgun@ubicloud.com": {
+    "timestamp": "2026-05-19T18:27:50.918641",
+    "status": "sent"
+  },
+  "sabih@medervahealth.com": {
+    "timestamp": "2026-05-19T18:28:42.944662",
+    "status": "sent"
+  },
+  "samagra14@10kapp.in": {
+    "timestamp": "2026-05-19T18:30:41.637090",
+    "status": "sent"
+  },
+  "jhous003@fiu.edu": {
+    "timestamp": "2026-05-19T18:31:55.704501",
+    "status": "sent"
+  },
+  "shu@skyvern.com": {
+    "timestamp": "2026-05-19T18:33:11.986207",
+    "status": "sent"
+  },
+  "rio@entribe.com": {
+    "timestamp": "2026-05-19T18:34:04.176693",
+    "status": "sent"
+  },
+  "rabii@remomoney.com": {
+    "timestamp": "2026-05-19T18:35:03.962965",
+    "status": "sent"
+  },
+  "david@autogon.ai": {
+    "timestamp": "2026-05-19T18:37:02.327689",
+    "status": "sent"
+  },
+  "barbara.maley@quesgen.com": {
+    "timestamp": "2026-05-19T18:39:02.296883",
+    "status": "sent"
+  },
+  "daniel@legion.health": {
+    "timestamp": "2026-05-19T18:40:40.953398",
+    "status": "sent"
+  },
+  "sujay@cloudanix.com": {
+    "timestamp": "2026-05-19T18:42:24.597455",
+    "status": "sent"
+  },
+  "pmcdonald@solarcycle.us": {
+    "timestamp": "2026-05-19T18:44:01.675697",
     "status": "sent"
   }
 }

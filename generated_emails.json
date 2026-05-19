@@ -1155,17 +1155,6 @@
     "body": "Hey Rhim,\n\nI'm Sumanth — a backend engineer at Cimpress where I own data pipelines processing 130M+ records/day at 99.9% SLA. I replaced a $30K/year SaaS tool by building the system from scratch with retry logic, schema validation, and parallel execution.\n\nI also built and shipped a production FastAPI service end-to-end — JWT auth, CORS, 100% test coverage, CI/CD, and multi-environment rollout. I'm used to owning things start to finish.\n\nI'm looking to join an early-stage team where I can take full ownership and move fast.\n\nWould love to chat if you're open to it — I've attached my resume.\n\nBest,\nSumanth"
   },
   {
-    "to_name": "Eric Eu)",
-    "to_email": "ehardter@emmes.com",
-    "first_name": "Eric",
-    "last_name": "Eu)",
-    "company": "Boyds",
-    "company_domain": "boydconsultants.com",
-    "job_title": "Director",
-    "subject": "Backend Engineer — looking to join an early-stage team",
-    "body": "Hey Eric,\n\nI'm Sumanth — a backend engineer at Cimpress where I own data pipelines processing 130M+ records/day at 99.9% SLA. I replaced a $30K/year SaaS tool by building the system from scratch with retry logic, schema validation, and parallel execution.\n\nI also built and shipped a production FastAPI service end-to-end — JWT auth, CORS, 100% test coverage, CI/CD, and multi-environment rollout. I'm used to owning things start to finish.\n\nI'm looking to join an early-stage team where I can take full ownership and move fast.\n\nWould love to chat if you're open to it — I've attached my resume.\n\nBest,\nSumanth"
-  },
-  {
     "to_name": "Kieran T",
     "to_email": "kieran@midship.dev",
     "first_name": "Kieran",
