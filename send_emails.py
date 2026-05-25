@@ -20,7 +20,7 @@ Setup:
 
 Usage:
   python send_emails.py --dry-run          # Preview emails (no sending)
-  python send_emails.py --batch-size 5     # Send 5 emails this run
+  python send_emails.py --batch-size 35     # Send 5 emails this run
   python send_emails.py                    # Send up to DAILY_LIMIT emails
   python send_emails.py --reset            # Clear sent log and start over
 """
